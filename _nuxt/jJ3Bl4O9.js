@@ -1,0 +1,1 @@
+import{_,a}from"./DwMOAbUB.js";import{o as s,c as r,b as o,s as c}from"./CPOLY2iT.js";import"./DptZwPkc.js";const f={__name:"custom",setup(m){return(e,p)=>{const t=_,n=a;return s(),r("div",null,[o(t),c(e.$slots,"default"),o(n)])}}};export{f as default};
