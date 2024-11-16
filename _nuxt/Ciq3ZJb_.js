@@ -1,0 +1,1 @@
+import{_ as r,o as n,c as o,a as t}from"./2J-b1vsd.js";const a={};function c(s,e){return n(),o("div",null,e[0]||(e[0]=[t("h1",null,"SIngle product page here",-1)]))}const _=r(a,[["render",c]]);export{_ as default};
